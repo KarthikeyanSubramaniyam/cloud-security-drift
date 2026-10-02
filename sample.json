@@ -1,0 +1,17 @@
+{
+  "before": [
+    {
+      "id": "bucket-demo",
+      "public": false,
+      "encrypted": true
+    }
+  ],
+  "after": [
+    {
+      "id": "bucket-demo",
+      "public": true,
+      "encrypted": true
+    }
+  ]
+}
+
